@@ -11,6 +11,7 @@ body {
   overflow: -moz-scrollbars-none;
   -ms-overflow-style: none;
   /* overflow-y:hidden; */
+  /*-webkit-transform:rotate(-90deg);*/
 }
 
 body::-webkit-scrollbar { width: 0 !important }
